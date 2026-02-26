@@ -1,9 +1,4 @@
-Hotel Reservation Analysis
-
-Overview
-
-This project analyzes a Hotel Booking dataset (Kaggle source) to extract business insights related to reservations, cancellations, pricing, and customer segmentation.
-The analysis was performed using Microsoft Excel (Data Cleaning + Pivot Tables + Dashboard Design).
+🏨 Hotel Reservation Analysis
 --
 <img width="1342" height="465" alt="1" src="https://github.com/user-attachments/assets/80e875b6-bde6-495a-9c92-8a2af1a35e13" />
 --
